@@ -2,7 +2,7 @@
 
 This is a simple command-line implementation of the classic **Rock, Paper, Scissors** game in Python. You can play multiple rounds, track scores, and exit anytime.
 
----
+----
 
 ## ✨ Features
 - Emoji-based representation for Rock 🪨, Paper 📄, and Scissors ✂️
@@ -10,7 +10,7 @@ This is a simple command-line implementation of the classic **Rock, Paper, Sciss
 - Continuous play until you decide to quit
 - Input validation and user-friendly messages
 
----
+----
 
 ## 📦 Requirements
 - Python 3.x  
