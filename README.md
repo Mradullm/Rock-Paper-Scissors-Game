@@ -14,7 +14,7 @@ This is a simple command-line implementation of the classic **Rock, Paper, Sciss
 
 ## 📦 Requirements
 - Python 3.x  
-- No external libraries required (uses only built-in modules)
+- No external libraries required {uses only built-in modules}
 
 ---
 
