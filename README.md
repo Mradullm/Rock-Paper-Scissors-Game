@@ -1,4 +1,4 @@
-# Rock Paper Scissors - Python Game 🎮
+# Rock Paper Scissors - Python Game  🎮
 
 This is a simple command-line implementation of the classic **Rock, Paper, Scissors** game in Python. You can play multiple rounds, track scores, and exit anytime.
 
